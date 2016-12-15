@@ -1,6 +1,6 @@
 # Learn Redux
 
-A simple pet shop interface using React + Redux.
+A simple pet shop interface using React + Redux, using Wesbo's template.
 
 ## Running
 
